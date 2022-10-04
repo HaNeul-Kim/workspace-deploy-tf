@@ -1,4 +1,4 @@
-# workspace-deploy-tf
+# databricks workspace deploy with terraform 
 
 AWS환경에 databricks workspace deploy를 위한 terraform script 모음입니다. 
 tfvars 파일은 하기와 같은 변수값들을 관리합니다. 

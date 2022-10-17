@@ -20,3 +20,7 @@ databricks_aws_account_id="414351767826" # do not edit
 
 다음과 같이 수행 
 > terraform apply -var-file=input.tfvars
+
+
+### to dos 
+https://github.com/hwang-db/tf_aws_deployment 
